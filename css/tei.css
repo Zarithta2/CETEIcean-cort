@@ -1,6 +1,6 @@
 tei-body {
   font-family: "Times New Roman";
-  font-size: 14pt;
+  font-size: 16pt;
 }
 
 tei-head {
@@ -8,8 +8,8 @@ tei-head {
   font-weight: bold;
   font-size: xx-large;
   text-align: center;
-  background-color: aqua;
-  color: blueviolet
+  background-color: aquamarine;
+  color: rgb(138, 43, 226)
 }
 
 tei-p {
