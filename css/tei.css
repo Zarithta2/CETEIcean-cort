@@ -1,6 +1,6 @@
 tei-body {
-  font-family: "Junicode Two Beta";
-  font-size: 12pt;
+  font-family: "Times New Roman";
+  font-size: 14pt;
 }
 
 tei-head {
@@ -8,6 +8,8 @@ tei-head {
   font-weight: bold;
   font-size: xx-large;
   text-align: center;
+  background-color: aqua;
+  color: blueviolet
 }
 
 tei-p {
@@ -28,7 +30,7 @@ tei-expan {
 }
 
 tei-del {
-  text-decoration: line-through red 1pt;
+  text-decoration-color: blue;
 }
 
 
